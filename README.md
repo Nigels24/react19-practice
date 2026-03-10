@@ -1,18 +1,140 @@
-# React + Vite
+# React 19 Practice ⚛️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository documents my learning journey while studying **React 19** and modern frontend development.
 
-Currently, two official plugins are available:
+I created this project to practice React concepts, experiment with code, and improve my skills by following a structured tutorial series.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📚 Learning Resource
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+This repository follows the YouTube tutorial series below:
 
-Note: This will impact Vite dev & build performances.
+React 19 Tutorial Playlist
+https://www.youtube.com/watch?v=pQLXUT94Hcg&list=PLC3y8-rFHvwg9D7EOSEBabuutIdKZN5V3&index=9
 
-## Expanding the ESLint configuration
+The tutorial covers essential React concepts and helps build a solid foundation in modern React development.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Purpose of This Repository
+
+* Practice **React 19 fundamentals**
+* Follow along with tutorials and implement examples
+* Experiment with different React features
+* Document my progress as an aspiring **Full Stack Developer**
+
+---
+
+## 🧠 Topics Covered
+
+Some of the concepts explored in this repository include:
+
+* React project setup
+* JSX
+* Components
+* Props
+* State management
+* Event handling
+* React Hooks
+* Component structure
+* Building small React features
+
+---
+
+## 🛠️ Technologies Used
+
+* React 19
+* JavaScript (ES6+)
+* HTML
+* CSS
+* Node.js
+* Vite / React tooling
+
+---
+
+## 📈 Learning Goal
+
+My goal is to build a strong foundation in React so I can create modern web applications and eventually become a **Full Stack Developer**.
+
+This repository serves as a record of my learning progress and hands-on practice.
+
+---
+
+## 🤝 Collaboration
+
+If you have suggestions, improvements, or learning tips, feel free to open an issue or share feedback. I'm always open to learning from other developers.
+
+---
+
+⭐ Learning. Building. Improving.
+# React 19 Practice ⚛️
+
+This repository documents my learning journey while studying **React 19** and modern frontend development.
+
+I created this project to practice React concepts, experiment with code, and improve my skills by following a structured tutorial series.
+
+---
+
+## 📚 Learning Resource
+
+This repository follows the YouTube tutorial series below:
+
+React 19 Tutorial Playlist
+https://www.youtube.com/watch?v=pQLXUT94Hcg&list=PLC3y8-rFHvwg9D7EOSEBabuutIdKZN5V3&index=9
+
+The tutorial covers essential React concepts and helps build a solid foundation in modern React development.
+
+---
+
+## 🎯 Purpose of This Repository
+
+* Practice **React 19 fundamentals**
+* Follow along with tutorials and implement examples
+* Experiment with different React features
+* Document my progress as an aspiring **Full Stack Developer**
+
+---
+
+## 🧠 Topics Covered
+
+Some of the concepts explored in this repository include:
+
+* React project setup
+* JSX
+* Components
+* Props
+* State management
+* Event handling
+* React Hooks
+* Component structure
+* Building small React features
+
+---
+
+## 🛠️ Technologies Used
+
+* React 19
+* JavaScript (ES6+)
+* HTML
+* CSS
+* Node.js
+* Vite / React tooling
+
+---
+
+## 📈 Learning Goal
+
+My goal is to build a strong foundation in React so I can create modern web applications and eventually become a **Full Stack Developer**.
+
+This repository serves as a record of my learning progress and hands-on practice.
+
+---
+
+## 🤝 Collaboration
+
+If you have suggestions, improvements, or learning tips, feel free to open an issue or share feedback. I'm always open to learning from other developers.
+
+---
+
+⭐ Learning. Building. Improving.

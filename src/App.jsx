@@ -13,10 +13,17 @@ import { UserDetails } from "./UserDetails";
 import { ProductList } from "./ProductList";
 import { NameList } from "./NameList";
 import { CustomButton } from "./CustomButton";
+import { Contact } from "./Contact";
+import { NewsLetter } from "./NewsLetter";
+// import { ActionButton } from "./ActionButton";
+import { Menu } from "./Menu";
 
 function App() {
   return (
     <div>
+      <Menu />
+      <Contact />
+      <NewsLetter />
       <CustomButton />
       <NameList />
       <ProductList />

@@ -17,10 +17,12 @@ import { Contact } from "./Contact";
 import { NewsLetter } from "./NewsLetter";
 // import { ActionButton } from "./ActionButton";
 import { Menu } from "./Menu";
+import { Counter } from "./Counter";
 
 function App() {
   return (
     <div>
+      <Counter />
       <Menu />
       <Contact />
       <NewsLetter />

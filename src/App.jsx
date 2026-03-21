@@ -11,10 +11,14 @@ import { Greetings } from "./Greetings";
 import { CardWrapper } from "./CardWrapper";
 import { UserDetails } from "./UserDetails";
 import { ProductList } from "./ProductList";
+import { NameList } from "./NameList";
+import { CustomButton } from "./CustomButton";
 
 function App() {
   return (
     <div>
+      <CustomButton />
+      <NameList />
       <ProductList />
       <UserDetails
         name="John Nigels"
